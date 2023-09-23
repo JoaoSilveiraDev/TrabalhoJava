@@ -1,3 +1,4 @@
+//João Vitor da Cunha Silveira, Diego Maglia Germann, Gustavo Von Burg;
 import java.util.Date;
 import java.text.SimpleDateFormat;
 

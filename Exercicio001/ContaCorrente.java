@@ -1,3 +1,4 @@
+//João Vitor da Cunha Silveira, Diego Maglia Germann, Gustavo Von Burg;
 import java.util.ArrayList;
 public class ContaCorrente extends Cliente{
     public ContaCorrente(String nome, String CPF, String RG){

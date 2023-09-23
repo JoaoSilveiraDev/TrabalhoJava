@@ -1,3 +1,4 @@
+//João Vitor da Cunha Silveira, Diego Maglia Germann, Gustavo Von Burg;
 public class ContaEspecial extends ContaCorrente{
     public ContaEspecial(String nome, String CPF, String RG) {
         super(nome, CPF, RG);

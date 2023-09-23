@@ -1,3 +1,4 @@
+//João Vitor da Cunha Silveira, Diego Maglia Germann, Gustavo Von Burg;
 public class ContaEspecialConsole {
     public static void main(String []args){
         ContaEspecial conta = new ContaEspecial("joao", "12345678901", "1234567890");
